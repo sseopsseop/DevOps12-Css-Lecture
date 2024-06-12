@@ -1,0 +1,10 @@
+.box{
+    display: inline-block;
+}
+
+#content{
+    padding-top:20px;
+    padding-right:60px;
+    padding-bottom:20px;
+    padding-left:0;
+}

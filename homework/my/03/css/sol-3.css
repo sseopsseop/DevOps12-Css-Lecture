@@ -1,0 +1,22 @@
+/* #check{
+    border:1px solid black;
+}
+
+#check:nth-child(n+1){
+    text-align:center;
+    font-weight:700;
+}
+
+h1{
+    text-align:left;
+    padding-left:10px;
+    border: 1px solid black;
+}
+
+h2{
+    color:red;
+}
+
+.accent{
+    color:blue;
+} */
