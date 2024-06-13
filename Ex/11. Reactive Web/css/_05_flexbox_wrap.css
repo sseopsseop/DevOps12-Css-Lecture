@@ -1,0 +1,13 @@
+/*flex-wrap 속성: 플렉스 항목들을 한 줄로 배치할 건지
+                  여러줄로 배치할 건지 결정하는 속성*/
+.container {
+    display:flex;
+    flex-wrap:wrap-reverse;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+    background: red;
+    color: white;
+}
